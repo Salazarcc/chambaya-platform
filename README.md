@@ -1,4 +1,4 @@
-# ⚡ TuOficioCol (ChambaYa)
+#  TuOficioCol (ChambaYa)
 
 > Plataforma web para la conexión directa entre trabajadores independientes de oficio (plomeros, electricistas, carpinteros, etc.) y empleadores, organizada por localidades y barrios en Colombia.
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Stack
+##  Tecnologías y Stack
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla moderno con diseño modular).
 - **Estilos y Componentes:** CSS Modules / Design System personalizado, Leaflet (Mapas interactivos).
 - **Backend / BaaS:** Firebase (Authentication, Firestore Database, Security Rules).
@@ -21,7 +21,7 @@
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 ```text
 [Tuoficiocol.com/](https://Tuoficiocol.com/)
 ├── css/                  # Hojas de estilo modulares (Design System, componentes, dashboards)
