@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Características Principales
+##  Características Principales
 - **Búsqueda por Localidad / Barrio:** Encuentra profesionales certificados cerca de tu ubicación.
 - **Sistema de Autenticación:** Registro diferenciado para clientes y trabajadores mediante Firebase Auth (Correo/Contraseña y Google).
 - **Gestión de Cotizaciones:** Publicación de solicitudes de servicio y recepción de ofertas técnicas en tiempo real con Cloud Firestore.
